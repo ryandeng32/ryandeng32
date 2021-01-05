@@ -5,7 +5,7 @@
 <p align="center">🔭 I’m currently a <strong>Web Application Developer</strong> at the University of Waterloo</p>
 <p align="center">⚡ Fun fact: I can solve a Rubik's Cube under <strong>12 seconds</strong></p>
 <h3 align="center">I'm looking for an internship from Sept. - Dec. 2021</h3>
-<p align="center">😄 feel free to reach out to me </p>
+<p align="center">😄 Feel free to reach out to me </p>
 
 <h3 align="center"><i>Stay healthy!</i></h3>
 
