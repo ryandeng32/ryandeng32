@@ -2,7 +2,7 @@
 
 <p align="center">📝 I am a sophomore studying <strong>Software Engineering</strong> at the <strong>University of Waterloo</strong></p>
 
-<p align="center">🔭 I’m an upcoming <strong>Software Engineer Intern</strong> at Snapcommerce</p>
+<p align="center">🔭 I’m an upcoming <strong>Software Engineer Intern</strong> at BitGo</p>
 <p align="center">⚡ Fun fact: I can solve a Rubik's Cube under <strong>12 seconds</strong></p>
 <h3 align="center">Looking for an internship from January to April in 2023</h3>
 <p align="center">😄 Feel free to reach out to me </p>
